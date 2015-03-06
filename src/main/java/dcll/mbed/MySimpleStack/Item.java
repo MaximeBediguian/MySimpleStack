@@ -10,6 +10,11 @@ public class Item {
         setValue(value);
     }
 
+    /**
+     * Un commentaire repondant a l'exigence #1
+     * @return
+     */
+
     public Object getValue(){
         return value;
     }
